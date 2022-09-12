@@ -1,2 +1,2 @@
 # My-Projects
-This repository contains my various projects that I Implemented.
+This repository contains the notebooks for my ML projects.
